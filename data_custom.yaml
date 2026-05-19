@@ -1,0 +1,6 @@
+train: W:\workspace\computer vision\construction_field\train
+val: W:\workspace\computer vision\construction_field\val
+
+nc: 11
+
+names: ["MMs_peanut","MMs_regular","airheads","gummy_worms","milky_way","nerds","skittles","snickers","starbust","three_musketeers","twizzlers"]
